@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Work-Black";
+    src: url('../fonts/static/WorkSans-Black.ttf');
+}
+
+@font-face {
+    font-family: "Work-Bold";
+    src: url('../fonts/static/WorkSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: "Work-ExtraBold";
+    src: url('../fonts/static/WorkSans-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: "Work-ExtraLight";
+    src: url('../fonts/static/WorkSans-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: "Work-Light";
+    src: url('../fonts/static/WorkSans-Light.ttf');
+}
+
+@font-face {
+    font-family: "Work-Medium";
+    src: url('../fonts/static/WorkSans-Medium.ttf');
+}
+
+@font-face {
+    font-family: "Work-Regular";
+    src: url('../fonts/static/WorkSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Work-SemiBold";
+    src: url('../fonts/static/WorkSans-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: "Work-Thin";
+    src: url('../fonts/static/WorkSans-Thin.ttf');
+}
