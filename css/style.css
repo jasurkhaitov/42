@@ -159,6 +159,7 @@ footer .container .footer-bottom .footer-right p {
         gap: 25px;
         margin-bottom: 0;
         align-items: center;
+        text-align: center;
     }
     
     header .container .header-top img {
